@@ -22,6 +22,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+
 }
 
 .App-link {
@@ -36,3 +37,20 @@
     transform: rotate(360deg);
   }
 }
+
+/* #footer {
+  position: absolute;
+ 
+  height: 50px;
+  background-color:black;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+}
+p{
+  margin:auto;
+  align-items: center;
+  color: white;
+  text-align: center;
+} */
